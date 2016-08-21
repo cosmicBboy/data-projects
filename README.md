@@ -1,7 +1,7 @@
 # Data Projects
 A repository for my various data projects
 
-## Project 1: Meaningful User Sentiment Classifier
+## Project 1: Meaningful Use Sentiment Classifier
 
 This project is a meta-analysis asking the following question:
 
